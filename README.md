@@ -5,3 +5,10 @@ Video:
 [https://cdn.discordapp.com/atta......./vatsap-track.mp4](https://cdn.discordapp.com/attachments/866146547266617358/924085644978958346/vatsap-track.mp4)
 
 Var olası hatalarla gelmeyin.
+
+
+
+## İletişim
+- Discord: [Unqown Exe#4214](https://discord.com/users/791255637920972801)
+- Website: [www.unqown.xyz](https://www.unqown.xyz)
+- İletişim: [www.unqown.xyz/iletisim](https://www.unqown.xyz/iletisim)
