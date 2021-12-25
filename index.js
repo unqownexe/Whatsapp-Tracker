@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const client = new Discord.Client();
 const puppeteer = require('puppeteer')
-client.login("Nzk2NDAxMzU3NjM2NjMyNjA2.X_XYkA.AanbmAhMU3OlQT45fNNQL5lNiiU")
+client.login("Token")
 client.on("ready",async() =>{
     console.log("Aktif")
 });
@@ -15,7 +15,7 @@ client.on("ready",async() =>{
       });
     client.on("message",async(message) =>{
         
-        if(message.guild && message.channel.id == "798849910203875388"  && message.content == "!whatsapp" && message.author.id == "791255637920972801"){
+        if(message.guild && message.channel.id == "KANAL ID"  && message.content == "!whatsapp" && message.author.id == "KULLANACAK KİŞİ ID"){
             let msg = await message.channel.send("Lütfen bekle.")
             const page = await browser.newPage();
             msg.edit("Lütfen bekle..")
